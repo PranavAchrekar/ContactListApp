@@ -4,7 +4,7 @@ A Contact List App using Django Framework
 --------------------------------------------------------
 ### Features:
 * This `Contact List App` is developed using python where you can view it in web.
-* You can perform CRUD operations
+* You can perform CRUD operations.
   * Add Contact
   * Edit Contact
   * Save Contact
