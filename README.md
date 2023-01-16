@@ -13,7 +13,7 @@ A Contact List App using Django Framework
 ----------------------------------------------------
 ### Steps to follow for first time use open terminal/command prompt and execute this below commands.
 
-1. Create a virtual environment.
+1. Create a virtual environment
 ~~~
    py -m venv env
 ~~~
