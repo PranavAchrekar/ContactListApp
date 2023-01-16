@@ -1,0 +1,128 @@
+*, *::before, *::after{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: font-family: 'Inter', sans-serif;
+	margin: 0;
+	color: #fff; /*white	*/
+}
+
+.container{
+	max-width: 428px;
+	margin: 0 auto; /*centers it*/
+	background-color: #313438;
+	min-height: 100vh;
+}
+
+.hero{
+	background: linear-gradient(90deg, rgba(64,160,222,1) 0%, rgba(90,139,219,1) 35%, rgba(67,64,204,1) 100%);
+	padding: 2em 0;
+	
+}
+
+.back-btn{
+	font-size:1.5em;
+	padding-left: 1em;
+
+}
+
+.hero-info{
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+}
+
+i{
+	font-size: 1.5em;
+
+}
+
+.relationship{
+	width: 6em;
+	text-align: center;
+	padding: 0.4em 0.5em;
+	border-radius: 100px;
+	border-top-left-radius: 0;
+	background-color: #5a8bdb;
+	font-size: .8em;
+}
+
+
+.anc{
+	text-decoration: none;
+	color: #fff;
+}
+
+.contact-info{
+	padding: 3em 1.5em;
+
+}
+
+.info-line{
+	display: flex;
+	width: 90%;
+	margin: 0 auto;
+	align-items: center;
+	padding: 1em 2em;
+	margin-top: 2em;
+	border-radius: 20px;
+	box-shadow: inset 20px 20px 60px #292c2f,
+            inset -20px -20px 60px #393c41;
+}
+
+p{
+	margin:0;
+	padding-left: 2em;
+}
+
+.icon-gradient{
+	background: linear-gradient(90deg, rgba(64,160,222,1) 0%, rgba(90,139,219,1) 35%, rgba(67,64,204,1) 100%);
+	border-radius: 100%;
+	padding: 0.5em;
+
+}
+
+#location{
+	padding: 0.5em 0.6em;
+}
+
+.type{
+	border: none;
+	background: none;
+	padding-left: 2em;
+	font-size: 1.2em;
+	outline: none;
+	color: #fff;
+}
+
+.button-container{
+	padding: 2em 3.5em;
+}
+
+.update-contact{
+	display: flex;
+	width:90%;
+	margin: 0 auto;
+	align-items: center;
+	padding: 1em 2em;
+	border-radius: 20px;
+	box-shadow:  20px 20px 60px #292c2f,
+             -20px -20px 60px #393c41;
+
+}
+
+.button{
+	border:none;
+	font-size: 1.3em;
+	padding-left: 1.5em;
+	outline: none;
+	color: #fff;
+	background-color: #313438;
+
+}
+
+.anc{
+	text-decoration: none;
+	color: #fff;
+}
