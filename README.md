@@ -9,7 +9,7 @@ A Contact List App using Django Framework.
   * Edit Contact
   * Save Contact
   * Delete Contact
-  * Search Functionality
+  * Search Functionality.
 ----------------------------------------------------
 ### Steps to follow for first time use open terminal/command prompt and execute this below commands.
 
